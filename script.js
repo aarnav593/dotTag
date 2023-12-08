@@ -50,7 +50,7 @@ var machineGun;
 function preload(){
   
 spriteImage = loadImage("sprites/characters/characterBlue.png")
-healthBarFull = loadImage("sprites/healthBar/fullhealthbar.png")
+healthBarFull = loadImage("sprites/healthbar/fullhealthbar.png")
 playButton = loadImage("sprites/characters/normal-eh.png")
 }
 
